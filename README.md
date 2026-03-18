@@ -12,7 +12,7 @@
 
 ---
 
-## 🕴🏻 About:
+##  About:
 
 I am a Computer Science student and I work professionally in the Information Technology field, with experience in technical support, infrastructure, and systems, providing user support, problem analysis, and support to corporate environments.
 
@@ -20,7 +20,7 @@ I am interested in software development and have been building my technical foun
 
 ---
 
-## 🚀 Projects:
+## Projects:
 
 ```txt
 [In Progress]
@@ -38,13 +38,13 @@ Fullstack App .............. Web + Database
 
 ---
 
-## 📊 Stats:
+## Stats:
 
 <p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JhuanNohl&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanNohl&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img height="150em" src="https://streak-stats.demolab.com?user=JhuanNohl&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
-## 🎚️ Skill Levels:
+## Skill Levels:
 
 html        ██████████░░
 css         █████████░░░
@@ -54,7 +54,7 @@ git         ███████░░░░░
 
 ---
 
-## 🎯 Goals and Achievements:
+## Goals and Achievements:
 
 ```txt
 [Education]
