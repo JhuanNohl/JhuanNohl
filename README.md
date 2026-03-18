@@ -1,3 +1,5 @@
+![banner](LINK_DA_IMAGEM)
+
 <h2 align="center">Jhuan Nohl</h2>
 
 <p align="center">
