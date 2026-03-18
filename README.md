@@ -1,16 +1,45 @@
-## Hi there 👋
+<h2 align="center">Jhuan Nohl</h2>
 
-<!--
-**JhuanNohl/JhuanNohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  suporte técnico • futuro dev web • ciência da computação
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>"see you space cowboy..."</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## about
+
+- atuação atual em suporte técnico  
+- foco em desenvolvimento web  
+- em formação em ciência da computação  
+
+---
+
+## stack
+
+html • css • javascript • node.js • git  
+
+---
+
+## stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=JhuanNohl&show_icons=true&theme=tokyonight&hide_border=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanNohl&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## goal
+
+evoluir para desenvolvimento full stack  
+construir projetos reais  
+manter consistência diária  
+
+---
+
+<p align="center">
+  <i>"whatever happens, happens."</i>
+</p>
