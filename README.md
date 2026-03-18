@@ -1,4 +1,4 @@
-![banner](LINK_DA_IMAGEM)
+![banner](https://anifusionmodelcdn.com/fal-mcp/1767087120642-b46d4a671611726e.webp)
 
 <h2 align="center">Jhuan Nohl</h2>
 
