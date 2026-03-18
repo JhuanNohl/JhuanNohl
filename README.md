@@ -72,11 +72,15 @@ Full Stack Developer who builds real-world systems with evolutionary consistency
 
 ---
 
-Status: Available
+```md
+## 🛰️ connection
 
-Location: Brazil
-
-Focus: Opportunities in development
+```txt
+[Status]    Available
+[Location]  Brazil
+[Focus]     Web Development Opportunities
+[Contact]     jhuannohl@gmail.com
+```
 
 ---
 
@@ -84,4 +88,4 @@ Focus: Opportunities in development
   <i>"whatever happens, happens."</i>
 </p>
 
-![banner](https://i.pinimg.com/1200x/f5/f2/8b/f5f28b500152ff620d8d31a3856c97cd.jpg)
+![banner](https://i.pinimg.com/1200x/b6/9f/df/b69fdf7f2cbbb988dcf3e7f766bda70a.jpg)
