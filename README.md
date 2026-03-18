@@ -73,7 +73,7 @@ Full Stack Developer who builds real-world systems with evolutionary consistency
 ---
 
 ```md
-## 🛰️ connection
+## Connection:
 
 ```txt
 [Status]    Available
@@ -88,4 +88,4 @@ Full Stack Developer who builds real-world systems with evolutionary consistency
   <i>"whatever happens, happens."</i>
 </p>
 
-![banner](https://i.pinimg.com/1200x/b6/9f/df/b69fdf7f2cbbb988dcf3e7f766bda70a.jpg)
+![banner](https://i.pinimg.com/1200x/47/8f/7a/478f7a79416c51dce57b09ea2629d267.jpg)
