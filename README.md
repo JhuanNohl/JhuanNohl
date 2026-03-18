@@ -72,7 +72,6 @@ Full Stack Developer who builds real-world systems with evolutionary consistency
 
 ---
 
-```md
 ## Connection:
 
 ```txt
