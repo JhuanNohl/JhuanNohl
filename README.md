@@ -14,9 +14,27 @@
 
 ## 🕴🏻 About:
 
-Sou estudante de Ciência da Computação e atuo profissionalmente na área de Tecnologia da Informação, com experiência em suporte técnico, infraestrutura e sistemas, atuando no atendimento a usuários, análise de problemas e apoio a ambientes corporativos.
+I am a Computer Science student and I work professionally in the Information Technology field, with experience in technical support, infrastructure, and systems, providing user support, problem analysis, and support to corporate environments.
 
-Tenho interesse em desenvolvimento de software e venho construindo minha base técnica em lógica de programação, análise de dados e fundamentos de desenvolvimento, buscando evoluir constantemente por meio de estudos, certificações e prática. Gosto de aprender na prática, entender como as soluções funcionam e contribuir com melhorias e novas ideias.
+I am interested in software development and have been building my technical foundation in programming logic, data analysis, and development fundamentals, constantly seeking to improve through studies, certifications, and practice. I enjoy learning by doing, understanding how solutions work, and contributing with improvements and new ideas.
+
+---
+
+## 🚀 Projects:
+
+```txt
+[In Progress]
+Intranet System ............ building (HTML, CSS, Js and PHP)
+Personal Studies ........... evolving (Node.Js, Js and PHP)
+
+[Completed]
+Basic Web Pages ............ Done (HTML, CSS and Js)
+Javascript Fundamentals .... Done
+
+[Planned]
+Rest API ................... Node.Js
+Fullstack App .............. Web + Database
+```
 
 ---
 
@@ -51,6 +69,14 @@ PHP | Node.Js | React
 [Goal]
 Full Stack Developer who builds real-world systems with evolutionary consistency.
 ```
+
+---
+
+Status: Available
+
+Location: Brazil
+
+Focus: Opportunities in development
 
 ---
 
