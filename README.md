@@ -6,15 +6,16 @@
 
 ---
 
-##  About:
+##  Sobre:
 
-I am a Computer Science student and I work professionally in the Information Technology field, with experience in technical support, infrastructure, and systems, providing user support, problem analysis, and support to corporate environments.
+Sou estudante de Ciência da Computação e trabalho profissionalmente na área de Tecnologia da Informação, com experiência em suporte técnico, infraestrutura, sistemas , suporte ao usuário, análise de problemas e suporte a ambientes corporativos.
 
-I am interested in software development and have been building my technical foundation in programming logic, data analysis, and development fundamentals, constantly seeking to improve through studies, certifications, and practice. I enjoy learning by doing, understanding how solutions work, and contributing with improvements and new ideas.
+Tenho interesse em desenvolvimento de software e venho construindo minha base técnica em lógica de programação, análise de dados e fundamentos de desenvolvimento. Busco constantemente me aprimorar por meio de estudos, certificações e prática. Gosto de aprender na prática, entender como as soluções funcionam e contribuir com melhorias e novas ideias.
+
 
 ---
 
-## Projects:
+## Projetos:
 
 ```txt
 [In Progress]
@@ -32,13 +33,13 @@ Fullstack App .............. Web + Database
 
 ---
 
-## Stats:
+## Estatística:
 
 <p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JhuanNohl&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanNohl&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img height="150em" src="https://streak-stats.demolab.com?user=JhuanNohl&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
-## Skill Levels:
+## Habilidades:
 
 html        ██████████░░
 css         █████████░░░
@@ -48,7 +49,7 @@ git         ███████░░░░░
 
 ---
 
-## Goals and Achievements:
+## Conquistas e Opjetivos:
 
 ```txt
 [Education]
@@ -66,7 +67,7 @@ Full Stack Developer who builds real-world systems with evolutionary consistency
 
 ---
 
-## Connection:
+## Conexão:
 
 ```txt
 [Status]    Available
