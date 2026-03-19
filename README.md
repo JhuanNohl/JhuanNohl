@@ -1,5 +1,3 @@
-![banner](https://i.pinimg.com/1200x/7c/a3/03/7ca3036690783c623492f15d1706e35c.jpg)
-
 <h2 align="center">Jhuan Nohl</h2>
 
 <p align="center">
@@ -87,4 +85,3 @@ Full Stack Developer who builds real-world systems with evolutionary consistency
   <i>"whatever happens, happens."</i>
 </p>
 
-![banner](https://i.pinimg.com/1200x/47/8f/7a/478f7a79416c51dce57b09ea2629d267.jpg)
