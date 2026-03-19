@@ -72,7 +72,7 @@ Full Stack Developer who builds real-world systems with evolutionary consistency
 [Status]    Available
 [Location]  Brazil
 [Focus]     Web Development Opportunities
-[Contact]     jhuannohl@gmail.com
+[Contact]   jhuannohl@gmail.com
 ```
 
 ---
