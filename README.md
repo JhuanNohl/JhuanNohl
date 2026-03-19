@@ -4,10 +4,6 @@
   Technical Support • Web Developer
 </p>
 
-<p align="center">
-  <i>"see you space cowboy..."</i>
-</p>
-
 ---
 
 ##  About:
@@ -80,8 +76,4 @@ Full Stack Developer who builds real-world systems with evolutionary consistency
 ```
 
 ---
-
-<p align="center">
-  <i>"whatever happens, happens."</i>
-</p>
 
