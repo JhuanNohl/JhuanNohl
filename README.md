@@ -42,12 +42,6 @@ Fullstack App .............. Web + Database
 ## Estatisticas.
 
 <p align="center">
-  
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanNohl&layout=compact&hide_border=true&title_color=111111&text_color=333333&bg_color=ffffff" alt="Top languages" />
-  
-</p>
-
-<p align="center">
   <img height="155em" src="https://streak-stats.demolab.com?user=JhuanNohl&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=333333&dates=555555&sideNums=111111&currStreakNum=111111" alt="GitHub streak" />
 </p>
 
