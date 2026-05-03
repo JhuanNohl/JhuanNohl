@@ -43,8 +43,6 @@ Fullstack App .............. Web + Database
 
 <p align="center">
   
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=JhuanNohl&show_icons=true&hide_border=true&title_color=111111&text_color=333333&icon_color=111111&bg_color=ffffff" alt="GitHub stats" />
-  
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanNohl&layout=compact&hide_border=true&title_color=111111&text_color=333333&bg_color=ffffff" alt="Top languages" />
   
 </p>
