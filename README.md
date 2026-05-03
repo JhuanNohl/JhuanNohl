@@ -42,12 +42,20 @@ Backend Fundamentals ....... evolving
 [Next Steps]
 REST API ................... planned
 Fullstack Application ...... planned
+```txt
+
+---
 
 📊 Stats
+
 <p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JhuanNohl&show_icons=true&theme=dark&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhuanNohl&layout=compact&theme=dark&hide_border=true"/> </p> <p align="center"> <img height="150em" src="https://streak-stats.demolab.com?user=JhuanNohl&theme=dark&hide_border=true"/> </p>
+
+---
 
 ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,git&theme=light"/> </p>
+
+---
 
 🎯 Goals
 Short Term
