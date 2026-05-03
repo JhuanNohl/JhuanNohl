@@ -1,16 +1,18 @@
+<h1 align="center">Jhuan Nohl</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=Jhuan%20Nohl&fontColor=FFFFFF&fontSize=42&desc=Technical%20Support%20%7C%20Web%20Developer&descAlignY=72&descSize=16" alt="Jhuan Nohl" />
+  <strong>Web Developer</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Technical%20Support-111111?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Technical Support" />
-  <img src="https://img.shields.io/badge/Web%20Developer-2B2B2B?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Web Developer" />
-  <img src="https://img.shields.io/badge/Brazil-111111?style=for-the-badge&logo=github&logoColor=white" alt="Brazil" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Status-Building%20Projects-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-Brazil-black?style=for-the-badge">
 </p>
 
 ---
 
-## Sobre
+## Sobre.
 
 Sou estudante de Ciencia da Computacao e trabalho profissionalmente na area de Tecnologia da Informacao, com experiencia em suporte tecnico, infraestrutura, sistemas, suporte ao usuario, analise de problemas e ambientes corporativos.
 
@@ -18,7 +20,7 @@ Tenho interesse em desenvolvimento de software e venho construindo minha base te
 
 ---
 
-## Projetos
+## Projetos.
 
 ```txt
 [In Progress]
@@ -37,7 +39,7 @@ Fullstack App .............. Web + Database
 
 ---
 
-## Estatisticas
+## Estatisticas.
 
 <p align="center">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=JhuanNohl&show_icons=true&hide_border=true&title_color=111111&text_color=333333&icon_color=111111&bg_color=ffffff" alt="GitHub stats" />
@@ -64,30 +66,12 @@ Laravel       ####........
 
 ---
 
-## Conquistas e Objetivos
+## Contato.
 
 ```txt
-[Education]
-Computer Science ........... 50%
-
-[Completed]
-HTML5 | CSS3 | JavaScript | MySQL | Intranet System
-
-[In Progress]
-PHP | Laravel | Node.js | React | microCRM
-
-[Goal]
-Full Stack Developer building practical systems with consistency and evolution.
-```
-
----
-
-## Conexao
-
-```txt
-[Status]    Available
+[Phone] {31} 9 7204-9562
 [Location]  Brazil
-[Focus]     Web Development Opportunities
+[Focus]     Web Development 
 [Contact]   jhuannohl@gmail.com
 ```
 
