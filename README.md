@@ -1,3 +1,5 @@
+<img src="capa.jpg" width="100%"/>
+
 <h1 align="center">Jhuan Nohl</h1>
 
 <p align="center">
@@ -10,17 +12,15 @@
   <img src="https://img.shields.io/badge/Location-Brazil-black?style=for-the-badge">
 </p>
 
----
+<img src="https://i.pinimg.com/736x/cc/15/ad/cc15ad5e09a516b5fa61922279a2ff22.jpg" align="left" width="300"/>
 
-## Sobre.
+*Sobre:*
 
-Sou estudante de Ciencia da Computacao e trabalho profissionalmente na area de Tecnologia da Informacao, com experiencia em suporte tecnico, infraestrutura, sistemas, suporte ao usuario, analise de problemas e ambientes corporativos.
+*Sou estudante de Ciencia da Computacao e trabalho profissionalmente na area de Tecnologia da Informacao, com experiencia em suporte tecnico, infraestrutura, sistemas, suporte ao usuario, analise de problemas e ambientes corporativos.*
 
-Tenho interesse em desenvolvimento de software e venho construindo minha base tecnica em logica de programacao, analise de dados, banco de dados e fundamentos de desenvolvimento web. Gosto de aprender na pratica, entender como as solucoes funcionam e transformar estudos em projetos reais.
+*Tenho interesse em desenvolvimento de software e venho construindo minha base tecnica em logica de programacao, analise de dados, banco de dados e fundamentos de desenvolvimento web. Gosto de aprender na pratica, entender como as solucoes funcionam e transformar estudos em projetos reais.*
 
----
-
-## Projetos.
+*Projetos:*
 
 ```txt
 [In Progress]
@@ -39,15 +39,9 @@ Fullstack App .............. Web + Database
 
 ---
 
-## Estatisticas.
+<img src="https://i.pinimg.com/736x/f4/52/10/f4521095962da23a1ce9271d0c89de36.jpg" align="right" width="300"/>
 
-<p align="center">
-  <img height="155em" src="https://streak-stats.demolab.com?user=JhuanNohl&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=333333&dates=555555&sideNums=111111&currStreakNum=111111" alt="GitHub streak" />
-</p>
-
----
-
-## Habilidades
+*Habilidades:*
 
 ```txt
 HTML          ##########..
@@ -58,16 +52,11 @@ MySQL         #####.......
 Git           #######.....
 Laravel       ####........
 ```
+*Estatisticas:*
 
----
-
-## Contato.
-
-```txt
-[Phone] {31} 9 7204-9562
-[Location]  Brazil
-[Focus]     Web Development 
-[Contact]   jhuannohl@gmail.com
-```
+<p align="left">
+  
+  <img height="200em" src="https://streak-stats.demolab.com?user=JhuanNohl&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=58A6FF&currStreakNum=58A6FF" alt="GitHub streak" />
+  
 
 ---
