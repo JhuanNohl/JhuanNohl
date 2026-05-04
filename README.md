@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="capa.jpg"  />
+  <img height="200" src="footer.jpg"  />
 </div>
 
 ###
@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="footer.jpg"  />
+  <img height="200" src="capa.jpg"  />
 </div>
 
 ###
