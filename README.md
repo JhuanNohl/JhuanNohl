@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src=""  />
+  <img height="200" src="capa.jpg"  />
 </div>
 
 ###
@@ -14,19 +14,15 @@
 
 <h2 align="left">Sobre:</h2>
 
-###
-
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+<img align="left" height="200" src="Clientoconfig.jpg"  />
 
 <p align="left">Atualmente sou estudante de Ciências da Computação, e trabalho profissionalmente na area de Tecnologia da Informacao. Tenho experiencia em suporte tecnico, infraestrutura de redes, sistemas corporativos, suporte ao usuário, análise de problemas e ambientes corporativos.<br><br>Tenho interesse em desenvolvimento de software, e venho construindo minha base técnica e prática em logica de programação, análise de dados, banco de dados e fundamentos de desenvolvimento web. Gosto de aprender na prática, entender como as soluções funcionam e transformar estudos em projetos reais.</p>
 
 ###
 
-<h2 align="left">Tecnologias e Ferramentas:</h2>
+</br>
 
-###
+<h2 align="left">Tecnologias e Ferramentas:</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
@@ -60,13 +56,9 @@
 
 <h2 align="left">Estatísticas:</h2>
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JhuanNohl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhuanNohl&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -76,24 +68,22 @@
 
 <h2 align="left">Contatos:</h2>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jhuan-nohl-9815a9210/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:jhuannohl@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5531972049562" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="footer.jpg"  />
 </div>
 
 ###
