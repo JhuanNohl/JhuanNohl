@@ -1,73 +1,100 @@
-<img src="capa.jpg" width="100%"/>
+<div align="center">
+  <img height="200" src="capa.jpg"  />
+</div>
 
-<h1 align="center">Jhuan Nohl</h1>
+###
 
-<p align="center">
-  <strong>Web Developer</strong>
-</p>
+<h2 align="center">Jhuan Nohl</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-black?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Location-Brazil-black?style=for-the-badge">
-</p>
+###
 
-<img src="https://i.pinimg.com/736x/cc/15/ad/cc15ad5e09a516b5fa61922279a2ff22.jpg" align="left" width="300"/>
+<p align="center">Web Developer</p>
 
-*Sobre:*
+###
 
-*Sou estudante de Ciencia da Computacao e trabalho profissionalmente na area de Tecnologia da Informacao, com experiencia em suporte tecnico, infraestrutura, sistemas, suporte ao usuario, analise de problemas e ambientes corporativos.*
+<h2 align="left">Sobre:</h2>
 
-*Tenho interesse em desenvolvimento de software e venho construindo minha base tecnica em logica de programacao, analise de dados, banco de dados e fundamentos de desenvolvimento web. Gosto de aprender na pratica, entender como as solucoes funcionam e transformar estudos em projetos reais.*
+###
 
-*Projetos:*
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-```txt
-[In Progress]
-microCRM ................... started (Laravel, PHP, MySQL, Blade)
-Personal Studies ........... evolving (Node.js, JavaScript, PHP, React)
+###
 
-[Completed]
-Intranet System ............ done (HTML, CSS, JavaScript, PHP)
-Basic Web Pages ............ done (HTML, CSS, JavaScript)
-JavaScript Fundamentals .... done
+<p align="left">Atualmente sou estudante de Ciências da Computação, e trabalho profissionalmente na area de Tecnologia da Informacao. Tenho experiencia em suporte tecnico, infraestrutura de redes, sistemas corporativos, suporte ao usuário, análise de problemas e ambientes corporativos.<br><br>Tenho interesse em desenvolvimento de software, e venho construindo minha base técnica e prática em logica de programação, análise de dados, banco de dados e fundamentos de desenvolvimento web. Gosto de aprender na prática, entender como as soluções funcionam e transformar estudos em projetos reais.</p>
 
-[Planned]
-REST API ................... Node.js
-Fullstack App .............. Web + Database
-```
+###
 
----
+<h2 align="left">Tecnologias e Ferramentas:</h2>
 
-<img src="https://i.pinimg.com/736x/f4/52/10/f4521095962da23a1ce9271d0c89de36.jpg" align="right" width="300"/>
+###
 
-*Habilidades:*
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+</div>
 
-```txt
-HTML          ##########..
-CSS           #########...
-JavaScript    ########....
-PHP           #######.....
-MySQL         #####.......
-Git           #######.....
-Laravel       ####........
-```
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+###
 
-*Estatisticas:*
+<h2 align="left">Estatísticas:</h2>
 
-<p align="left">
-  
-  <img height="200em" src="https://streak-stats.demolab.com?user=JhuanNohl&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=58A6FF&currStreakNum=58A6FF" alt="GitHub streak" />
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JhuanNohl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhuanNohl&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">Contatos:</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhuan-nohl-9815a9210/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:jhuannohl@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/5531972049562" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 ---
