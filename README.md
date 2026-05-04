@@ -16,7 +16,7 @@
 
 <img align="left" height="200" src="codeside.jpg"  />
 
-<p align="left">Atualmente sou estudante de Ciências da Computação, e trabalho profissionalmente na area de Tecnologia da Informacao. Tenho experiencia em suporte tecnico, infraestrutura de redes, sistemas corporativos, suporte ao usuário, análise de problemas e ambientes corporativos.<br><br>Tenho interesse em desenvolvimento de software, e venho construindo minha base técnica e prática em logica de programação, análise de dados, banco de dados e fundamentos de desenvolvimento web. Gosto de aprender na prática, entender como as soluções funcionam e transformar estudos em projetos reais.</p>
+<p align="left">Atualmente estou cursando Ciências da Computação, e trabalho profissionalmente na area de Tecnologia da Informação. Tenho experiencia em suporte tecnico, infraestrutura de redes, sistemas corporativos, suporte ao usuário, análise de problemas e ambientes corporativos.<br><br>Tenho interesse em desenvolvimento de software, e venho construindo minha base técnica e prática em logica de programação, análise de dados, banco de dados e fundamentos de desenvolvimento web. Gosto de aprender na prática, entender como as soluções funcionam e transformar estudos em projetos reais.</p>
 
 ###
 
