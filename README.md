@@ -1,5 +1,7 @@
-<div align="center">
-  <img height="200" src="footer.jpg"  />
+<div>
+  
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=100&fontAlignY=100&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+  
 </div>
 
 ###
@@ -88,9 +90,10 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="capa.jpg"  />
+<div>
+  
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=100&fontAlignY=100&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+  
 </div>
 
 ###
----
