@@ -10,17 +10,17 @@
 
 ###
 
-<p align="center">Web Developer</p>
+<p align="center">FullStack Developer</p>
 
 ###
 
 <h2 align="left">Sobre:</h2>
 
-<img align="left" height="200" src="codeside.jpg"  />
+<img align="left" height="200" margin="10pt" src="https://res.cloudinary.com/dgztg4ry9/image/upload/v1778106020/Jso_ewrbs9.gif"  />
 
-<p align="left">Atualmente curso faculdade na área de desenvolvimento e atuo principalmente em projetos de desenvolvimento fullstack, participando atualmente do meu quarto projeto na área. </br>
-Tenho foco na construção de aplicações escaláveis, manuteníveis e eficientes, aplicando boas práticas de desenvolvimento, Clean Code, código desacoplado e arquitetura orientada à evolução do projeto. </br>
-Minha experiência anterior com infraestrutura, contribui para uma visão mais sólida sobre ambientes corporativos, performance, resolução de problemas e engenharia de software aplicada a cenários reais. </br>
+<p align="right">Atualmente curso faculdade na área de desenvolvimento e atuo principalmente em projetos de desenvolvimento fullstack, participando atualmente do meu quarto projeto na área.
+Tenho foco na construção de aplicações escaláveis, manuteníveis e eficientes, aplicando boas práticas de desenvolvimento, Clean Code, código desacoplado e arquitetura orientada à evolução do projeto.
+Minha experiência anterior com infraestrutura, contribui para uma visão mais sólida sobre ambientes corporativos, performance, resolução de problemas e engenharia de software aplicada a cenários reais.
 Busco desenvolver soluções extensíveis, adaptáveis e bem estruturadas, com atenção à qualidade do código, arquitetura e entrega de valor através da tecnologia.</p>
 
 ###
