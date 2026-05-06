@@ -18,7 +18,10 @@
 
 <img align="left" height="200" src="codeside.jpg"  />
 
-<p align="left">Atualmente estou cursando Ciências da Computação, e trabalho profissionalmente na area de Tecnologia da Informação. Tenho experiencia em suporte tecnico, infraestrutura de redes, sistemas corporativos, suporte ao usuário, análise de problemas e ambientes corporativos.<br><br>Tenho interesse em desenvolvimento de software, e venho construindo minha base técnica e prática em logica de programação, análise de dados, banco de dados e fundamentos de desenvolvimento web. Gosto de aprender na prática, entender como as soluções funcionam e transformar estudos em projetos reais.</p>
+<p align="left">Atualmente curso faculdade na área de desenvolvimento e atuo principalmente em projetos de desenvolvimento fullstack, participando atualmente do meu quarto projeto na área. </br>
+Tenho foco na construção de aplicações escaláveis, manuteníveis e eficientes, aplicando boas práticas de desenvolvimento, Clean Code, código desacoplado e arquitetura orientada à evolução do projeto. </br>
+Minha experiência anterior com infraestrutura, contribui para uma visão mais sólida sobre ambientes corporativos, performance, resolução de problemas e engenharia de software aplicada a cenários reais. </br>
+Busco desenvolver soluções extensíveis, adaptáveis e bem estruturadas, com atenção à qualidade do código, arquitetura e entrega de valor através da tecnologia.</p>
 
 ###
 
